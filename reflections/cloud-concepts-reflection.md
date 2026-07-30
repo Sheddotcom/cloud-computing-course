@@ -1,6 +1,6 @@
 # Cloud Concepts & Version Control Reflection
 
-## 1. Cloud Services and Classifications
+## Cloud Services and Classifications
 
 In my daily routine, I frequently rely on cloud-based applications for communication, storage, and digital transactions:
 
@@ -10,6 +10,6 @@ In my daily routine, I frequently rely on cloud-based applications for communica
 
 ---
 
-## 2. Importance of Git & GitHub in Cloud Projects
+## Git & GitHub for Cloud Projects
 
 Version control platforms like Git and GitHub are critical when managing cloud infrastructure because modern cloud setups are frequently defined, configured, and managed through code. Because cloud configurations directly impact server deployments, network security, and database access, maintaining precise control over this code is essential. GitHub allows teams to collaborate smoothly through branches, where developers can build and test infrastructure updates independently before opening pull requests for team review. This process ensures every change is thoroughly inspected before being applied to live environments. Additionally, GitHub maintains a detailed, time-stamped history of all modifications, making it easy to track changes and identify who introduced specific configurations. Most importantly, if a bad setting or bug causes system downtime, version control enables engineers to instantly roll back cloud resources to a previous stable commit, preventing prolonged outages and protecting vital infrastructure.
