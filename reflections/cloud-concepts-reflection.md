@@ -1,6 +1,6 @@
-# Cloud Concepts & Version Control Reflection
+# Cloud Concepts Reflection
 
-## Cloud Services and Classifications
+## Cloud Services I Use & Identifying the Models
 
 In my daily routine, I frequently rely on cloud-based applications for communication, storage, and digital transactions:
 
