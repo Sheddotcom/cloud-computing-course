@@ -14,15 +14,13 @@ This repo serves as my organized workspace for all course requirements, includin
 - Instructor: TORRES, JENKIELYN C.
 - School Year: 2026-2027
 
-📂 Repository Structure
-<pre>
-cloud-computing-course/
-├── activities/
-├── projects/
-├── notes/
-├── reflections/
+📂 Repository Structure<br>
+cloud-computing-course/<br>
+├── activities/<br>
+├── projects/<br>
+├── notes/<br>
+├── reflections/<br>
 └── README.md
-</pre>
 
 📖 Key Concepts Covered
 - Cloud Computing Basics
