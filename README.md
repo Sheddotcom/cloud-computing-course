@@ -8,13 +8,13 @@ This repo serves as my organized workspace for all course requirements, includin
 - Mini-projects
 - Reflection papers
 
-##👤 Student Information
+## 👤 Student Information
 - Name: AQUINO, SHEDRICK C.
 - Course/Section: BSIT 4H
 - Instructor: TORRES, JENKIELYN C.
 - School Year: 2026-2027
 
-##📂 Repository Structure<br>
+## 📂 Repository Structure<br>
 cloud-computing-course/<br>
 ├── activities/<br>
 ├── projects/<br>
@@ -22,7 +22,7 @@ cloud-computing-course/<br>
 ├── reflections/<br>
 └── README.md
 
-##📖 Key Concepts Covered
+## 📖 Key Concepts Covered
 - Cloud Computing Basics
 - Service Models (IaaS, PaaS, SaaS)
 - Deployment Models (Public, Private, Hybrid, Community)
